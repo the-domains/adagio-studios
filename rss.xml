@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Adagio Studios ]]></title>
         <description><![CDATA[Adagio Studios ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adagio-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 13:00:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 13:04:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adagio-studios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Phoenix- A Poem]]></title>
             <description><![CDATA[<article><h1>Phoenix- A Poem</h1><p>Sometimes, everything feels like it is in flux... it was just such a time when I wrote this, and it feels that way again:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d991d2debb2fb3802baa116d1cf308080874252.png"></article>]]></description>
             <link>https://medium.com/why-not-change-the-world/phoenix-c9dc690648fc</link>
             <guid isPermaLink="false">cfa63be1-7bed-4c7d-b20e-14ba246bd704</guid>
             <pubDate>Thu, 18 Feb 2016 13:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real Epiphanies- Thoughts on changing the world ]]></title>
+            <description><![CDATA[<article><h1>Real Epiphanies- Thoughts on changing the world </h1><p>"Sustainability" is often bandied about as if it were a banner for a new age, but few of us spend enough time with the term to truly come to terms with what it actually means. Fortunately, I had three years to get up close and personal with the term while I served as an AmeriCorps*VISTA and, later, a VISTA Leader.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e44ed781a3f4821d0ab102e850c15cd9aa414a5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/adagio-studios/real-epiphanies-thoughts-on-changing-the-world/index.html</link>
+            <guid isPermaLink="false">81db427f-a960-47b7-a139-8ed78655bcdf</guid>
+            <pubDate>Thu, 18 Feb 2016 13:04:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
