@@ -1,0 +1,14 @@
+layout_spectrum: 0.8819562
+typography_spectrum: 0.8634064
+color:
+  saturation: 0.09127341
+  lightness: 0.5133758
+  brandStrength: 0.4577148
+  rhythmicContrast: 0.8474782
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'Adagio Studios '
