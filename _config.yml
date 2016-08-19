@@ -5,12 +5,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5
   brandStrength: 0.7731872
@@ -26,15 +26,16 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
+style: taylor
 name: 'Adagio Studios '
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8634064
+typography_spectrum: 0.8575042
 layout_spectrum: 1
